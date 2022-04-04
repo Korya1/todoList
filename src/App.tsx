@@ -23,7 +23,7 @@ function App() {
     return (
         <div className="App">
             <TodoList title={TodoListTitle_01} tasks={task_01}/>
-            <TodoList title={TodoListTitle_02} tasks={task_02}/>
+            <TodoList title={TodoListTitle_02} tasks={task_02 }/>
         </div>
     );
 }
