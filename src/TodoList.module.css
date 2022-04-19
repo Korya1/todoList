@@ -1,0 +1,15 @@
+.selectBtn {
+    background-color: aqua;
+}
+
+.completedTasks {
+    opacity: 0.5;
+}
+
+.errorInput {
+    border: red 1px solid;
+}
+
+.errorRequired {
+    color: red;
+}
